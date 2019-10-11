@@ -6,4 +6,10 @@
     <string name="BtnConnecter">Connexion</string>
     <string name="msgMauvaisMotDePasse">Mauvais mot de passe</string>
     <string name="msgBonjourExplorateur">Bonjour explorateur %1$s,</string>
+    <string name="msgNearPlanetZero">Aucune planète à proximité</string>
+    <plurals name="msgNearPlanet">
+        <item quantity="zero">@string/msgNearPlanetZero</item>
+        <item quantity="one">%d planète est à proximité</item>
+        <item quantity="other">%d planètes sont à proximité</item>
+    </plurals>
 </resources>
