@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpaceExplorer</string>
+    <string name="space_explorer">Space Explorer</string>
+    <string name="nom_utilisateur">Nom d\'utilisateur:</string>
+    <string name="mot_de_passe">Mot de passe:</string>
+    <string name="BtnConnecter">Connexion</string>
+    <string name="msgMauvaisMotDePasse">Mauvais mot de passe</string>
+    <string name="msgBonjourExplorateur">Bonjour explorateur %1$s,</string>
+</resources>
